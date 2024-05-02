@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hervé</h1>
-<h3 align="center">I'm a software engineering student at the Adventist University of Central Africa. Beyond coding, I excel at working with people and managing tasks effectively. I'm an eager learner, constantly seeking to expand my skills and dive deeper into software engineering.</h3>
+<h1 align="left">Hi 👋, I'm Hervé</h1>
+<h3 align="left">I'm a software engineering student at the Adventist University of Central Africa. Beyond coding, I excel at working with people and managing tasks effectively. I'm an eager learner, constantly seeking to expand my skills and dive deeper into software engineering.</h3>
 
 - 🌱 I’m currently learning **Nest.js**
 
