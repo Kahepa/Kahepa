@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hervé</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=spartan&weight=600&size=30&pause=1000&color=3D89F7&random=false&width=435&lines=Hi%2C+I'm+Herv%C3%A9;Software+Engineer" alt="Typing SVG" /></a>
 <h3 align="left">I'm a software engineering student at the Adventist University of Central Africa. Beyond coding, I excel at working with people and managing tasks effectively. I'm an eager learner, constantly seeking to expand my skills and dive deeper into software engineering.</h3>
 
 - 🌱 I’m currently learning **Nest.js**
@@ -10,7 +10,7 @@
 # <p align="left">
 </p>
 -->
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
